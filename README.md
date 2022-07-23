@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @professorx2001(Md Zaki Hussain)
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on C projects.
+- 🌱 I’m currently learning C/C++,HTML,CSS,JS.
+- 💞️ I’m looking to collaborate on C/C++ projects.
 - 📫 Reach me at my mail mdzakihusain@gmail.com
 
 <!---
