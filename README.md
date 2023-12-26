@@ -7,9 +7,9 @@ Enthusiastic graduate seeking to start a career as an Entry-level Software Engin
 
 ### Reach me 📫:
 <div>
-    <a href="https://www.linkedin.com/in/mdzakihussain/">
+    <a href="https://www.linkedin.com/in/mdzakihussain/" target = "_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      <a href="mailto:mdzakihusain@gmail.com">
+      <a href="mailto:mdzakihusain@gmail.com" target = "_blank">
       <img src="https://img.shields.io/badge/Mail at-darkgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </div>
 
