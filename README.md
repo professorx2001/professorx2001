@@ -3,7 +3,7 @@ Hi, My name is Md Zaki Hussain (@professorx2001) 👋 .
 Enthusiastic graduate seeking to start a career as an Entry-level Software Engineer with a Reputed Technology-driven firm.
 <br/>
 ### Skills 👀:
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,html,css,js,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,html,css,tailwindcss,js,nodejs,express,mongodb,git,github,vscode)](https://skillicons.dev)
 
 ### Reach me 📫:
 <div>
